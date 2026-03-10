@@ -8,13 +8,13 @@ O chatbot permite que o usuário envie perguntas e receba respostas do modelo de
 
 ## Tecnologias utilizadas
 
-Python
-API Gemini
-Google Colab
+- Python
+- API Gemini
+- Google Colab
 
 ## Funcionalidade
 
-Recebe perguntas do usuário
-Envia prompts para o modelo de IA
-Retorna respostas geradas pelo modelo
-Loop de conversa até o usuário digitar "fim.
+- Recebe perguntas do usuário
+- Envia prompts para o modelo de IA
+- Retorna respostas geradas pelo modelo
+- Loop de conversa até o usuário digitar "fim.
