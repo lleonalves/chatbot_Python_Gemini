@@ -3,8 +3,8 @@ Projeto simples mas que marca o inicio do meu aprendizado em IA. Um chatbot dese
 
 ## Descrição
 
-Este projeto demonstra a integração de um modelo de Inteligência Artificial generativa em uma aplicação Python.
-O chatbot permite que o usuário envie perguntas e receba respostas do modelo de IA em tempo real.
+Este projeto foi criado durante à aula do curso de Especialista de IA pela plataforma Alura. Consiste na integração de um modelo de Inteligência Artificial generativa em Python.
+O chatbot permite enviar perguntas e receber respostas em tempo real.
 
 ## Tecnologias utilizadas
 
